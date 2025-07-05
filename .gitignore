@@ -1,0 +1,93 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Built for Android Studio with Kotlin & Jetpack Compose
+
+# Gradle files
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log/OS generated files
+*.log
+*.swp
+*.swo
+*.DS_Store
+*.iml
+
+# Android Studio
+.idea/
+*.iws
+*.ipr
+
+# Keystore files
+*.jks
+*.keystore
+
+# Compiled code
+*.class
+*.dex
+*.apk
+*.ap_ 
+*.aab
+
+# Proguard
+proguard/*.txt
+proguard/*.pro
+
+# Unit test, instrumentation test
+test-output/
+output.json
+
+# IntelliJ
+out/
+
+# Kotlin specific
+*.kotlin_module
+
+# Jetpack Compose preview caches
+.idea/jetbrains/compose-designtime/
+
+# Generated files
+captures/
+output/
+
+# NDK
+obj/
+
+# Fastlane metadata, if used
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Crashlytics
+crashlytics-build.properties
+
+# Miscellaneous
+*.orig
+*.rej
+
+# Mac
+*.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
