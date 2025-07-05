@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Code Scanner Demo</string>
+    <string name="gms_scanner_module_error">Error during the installation of the barcodes scanner module. Try to update Google Play Services version and try again.</string>
+</resources>
